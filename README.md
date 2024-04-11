@@ -7,5 +7,5 @@
 To integrate AFNetworking into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'AFNetworking', :git=>'https://github.com/soulbody/AFNetworking/'
+pod 'AFNetworking', :git=>'git@github.com:soulbody/AFNetworking.git'
 ```
